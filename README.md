@@ -16,7 +16,7 @@ Then there are a few options you can apply. The first of these options is to uni
 
 After successfully uninstalling the kaspersky program, run the KTS_RESET.bat file. You can use the program according to the warnings and articles written later.
 
-<img src="Images/Kaspersky3.png">
+<img src="Images/Kaspersky3.PNG">
 
 After the program has done its job successfully, a notification will appear on your screen and your computer will restart automatically.
 
