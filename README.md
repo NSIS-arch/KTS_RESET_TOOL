@@ -12,7 +12,7 @@ First, open the Kaspersky program. After you open it, go to the settings by clic
 
 After completing these steps, right click on the icon of the kaspersky program and click exit and close the program.
 
-Then there are a few options you can apply. The first of these options is to uninstall kaspersky with any application uninstaller software (the reason we uninstall using an application is to automatically clean the registry remnants [Regedit]. If I need to recommend an application you can use for this, you can use [IObit](https://www.iobit.com/en/advanceduninstaller.php) Uninstaller.) or you can simply Uninstall Kaspersky from the control panel , but for stability it is better to do the first step.
+Then there are a few options you can apply. The first of these options is to uninstall kaspersky with any application uninstaller software (the reason we uninstall using an application is to automatically clean the registry remnants [Regedit]. If I need to recommend an application you can use for this, you can use [IObit Uninstaller](https://www.iobit.com/en/advanceduninstaller.php).) or you can simply Uninstall Kaspersky from the control panel , but for stability it is better to do the first step.
 
 After successfully uninstalling the kaspersky program, run the KTS_RESET.bat file. You can use the program according to the warnings and articles written later.
 
